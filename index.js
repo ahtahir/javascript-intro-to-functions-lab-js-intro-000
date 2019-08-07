@@ -18,10 +18,3 @@ function sayHiToGrandma(string) {
   string.toLowerCase()
   return string
 }
-else if (string = uppercase) {
-  return string
-}
-else if (string = mixedcase) {
-  return string
-}
-}
