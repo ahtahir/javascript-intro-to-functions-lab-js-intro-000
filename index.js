@@ -15,8 +15,9 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  string === lowercase
+  if (string = lowercase) {
   return string
+}
 }
 
 function sayHiToGrandma(string) {
